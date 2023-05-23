@@ -1,0 +1,109 @@
+/*td{
+    border-top: 0px solid #e9ecef !important;
+    padding: 0px !important;
+    font-size: 14px;
+}*/
+
+td{
+    border-top: 0px solid #e9ecef !important; 
+}
+
+.MuiFormGroup-root{
+    margin-bottom: 0rem !important;
+}
+
+th > span > button{
+    width: 100%;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    border-radius: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+}
+
+tr > th {
+    padding: 0px !important;
+}
+
+span.MuiIconButton-label > .MuiSvgIcon-root{
+    width: 20px !important; 
+    height: 20px !important;
+}
+
+h6 {
+    font-size: 12px !important;
+}
+
+.MuiPaper-rounded{
+    border-top: 1px solid #e9ecef;
+    border-left: 1px solid #e9ecef;
+    border-right: 1px solid #e9ecef;
+}
+
+.MuiPaper-elevation4 {
+    box-shadow: none !important;
+}
+
+.vrc{
+    margin-right: 10px !important;
+    padding: 0px !important;
+    font-size: 11px !important;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+    padding-bottom: 6px !important;
+    padding-top: 6px !important;
+}
+
+.resuelto {
+    color: #fff !important;
+    border-color: #3db63d !important;
+    background-color: #3db63d !important;
+
+    padding: 0px !important;
+    font-size: 11px !important;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+    padding-bottom: 6px !important;
+    padding-top: 6px !important;
+}
+
+.resuelto:hover {
+    color: #fff !important;
+    border-color: green !important;
+    background-color: green !important;
+}
+
+.resueltoDisabled {
+    color: #fff !important;
+    border-color: gray !important;
+    background-color: gray !important;
+
+    padding: 0px !important;
+    font-size: 11px !important;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+    padding-bottom: 6px !important;
+    padding-top: 6px !important;
+}
+
+img.reporte{
+    border: 1px solid azure;
+    border-radius: 10px;
+}
+
+img.report_{
+    border: 1px solid azure;
+    border-radius: 5px;
+}
+
+div.contenedorRepText{
+    text-align: left;
+}
+
+span.repTxt{
+    float: right;
+}
+
+.MuiPopover-paper > div{
+    background-color: #ffffff !important;
+}

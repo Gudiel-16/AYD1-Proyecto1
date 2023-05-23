@@ -1,0 +1,42 @@
+.bordeCampoVacio {
+    border:1.5px solid gold !important;
+}
+
+.bordeCampoIncorrecto {
+    border:1.5px solid red !important;
+}
+
+#notificacionUsuarioVacio {
+    font-size: 11px;
+    color: red;
+    padding-left: 2px;
+    display: none;
+}
+
+#notificacionPassVacio {
+    font-size: 11px;
+    color: red;
+    padding-left: 2px;
+    display: none;
+}
+
+#datosIncorrectos{
+    font-size: 11px;
+    color: red;
+}
+
+#contDatosIncorrectos{
+    text-align: center;
+    display: none;
+}
+
+#datosIncorrectosUser{
+    font-size: 11px;
+    color: seagreen;
+    font-weight: 600;
+}
+
+#contDatosIncorrectosUser{
+    text-align: center;
+    display: none;
+}

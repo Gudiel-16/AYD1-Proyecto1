@@ -1,0 +1,54 @@
+#containerId{
+    margin: 0 auto;
+}
+
+#textTitleId{
+    text-align: center;
+    width: 80%;
+    margin-bottom: 1rem !important;
+    margin-top: -10px !important;
+    font-size: 1rem;
+    margin: 0 auto;
+}
+
+#campoOne{
+    text-align: center;
+}
+
+#spanRol{
+    color: #8898aa !important;
+    opacity: 0.4;
+    margin-left: 10px;
+}
+
+.nombreCompletoVacio{
+    font-size: 11px;
+    text-align: left;
+    padding-left: 2px;
+    color: red;
+    display: none;
+}
+
+.bordeCampoVacio {
+    border:1.5px solid gold !important;
+}
+
+.nombreExistente{
+    font-size: 11px;
+    text-align: left;
+    padding-left: 2px;
+    color: red;
+    display: none;
+}
+
+.swal2-container {
+    z-index: 100000000 !important;
+}
+
+#limpieza{
+    float: right;
+    padding: 7px;
+    margin-top: -6px;
+    font-size: 11px;
+    display: none;
+}
